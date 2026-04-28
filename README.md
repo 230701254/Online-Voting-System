@@ -6,6 +6,12 @@ To develop a console-based Online Voting System that allows voters to vote for c
 
 ---
 
+## 🎯 Objective
+
+To build a simple and secure voting system using Java that ensures fair voting by allowing each voter to vote only once and accurately counting votes.
+
+---
+
 ##  System Description
 
 This system allows:
@@ -131,8 +137,8 @@ The system is implemented using Java and follows Object-Oriented Programming pri
 ##  Technologies Used
 
 * Java
+* Object-Oriented Programming (Encapsulation, Classes, Objects)
 * ArrayList (Java Collections)
-* Scanner (User Input)
 
 ---
 
@@ -168,4 +174,10 @@ The system is implemented using Java and follows Object-Oriented Programming pri
 * Shows final result
 
 ---
+
+##  Exception Handling
+
+* Prevents duplicate voting
+* Handles invalid voter input
+* Ensures system runs without crashing
 
