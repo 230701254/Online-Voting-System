@@ -1,18 +1,18 @@
-#  Online Voting System (Java)
+# Online Voting System (Java)
 
-##  Problem Statement
+## Problem Statement
 
 To develop a console-based Online Voting System that allows voters to vote for candidates in an election. The system ensures that each voter can vote only once and that votes are recorded and counted correctly.
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To build a simple and secure voting system using Java that ensures fair voting by allowing each voter to vote only once and accurately counting votes.
 
 ---
 
-##  System Description
+## System Description
 
 This system allows:
 
@@ -25,7 +25,7 @@ The system is implemented using Java and follows Object-Oriented Programming pri
 
 ---
 
-##  Classes Used
+## Classes Used
 
 ### 1. Voter (voter.java)
 
@@ -112,7 +112,7 @@ The system is implemented using Java and follows Object-Oriented Programming pri
 
 ---
 
-##  Working / Logic
+## Working / Logic
 
 1. Candidates are created and stored in an ArrayList
 2. Voters are registered
@@ -125,7 +125,7 @@ The system is implemented using Java and follows Object-Oriented Programming pri
 
 ---
 
-##  Business Rules Implemented
+## Business Rules Implemented
 
 * A voter can vote only once
 * Votes are counted correctly for each candidate
@@ -134,7 +134,7 @@ The system is implemented using Java and follows Object-Oriented Programming pri
 
 ---
 
-##  Technologies Used
+## Technologies Used
 
 * Java
 * Object-Oriented Programming (Encapsulation, Classes, Objects)
@@ -142,7 +142,7 @@ The system is implemented using Java and follows Object-Oriented Programming pri
 
 ---
 
-##  Steps to Run
+## Steps to Run
 
 1. Open terminal
 
@@ -166,7 +166,7 @@ The system is implemented using Java and follows Object-Oriented Programming pri
 
 ---
 
-##  Output
+## Output
 
 * Displays candidate list
 * Allows voter to vote
@@ -175,7 +175,7 @@ The system is implemented using Java and follows Object-Oriented Programming pri
 
 ---
 
-##  Exception Handling
+## Exception Handling
 
 * Prevents duplicate voting
 * Handles invalid voter input
